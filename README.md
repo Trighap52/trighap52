@@ -22,7 +22,7 @@
 ## 📫 Connect with Me
 <p align="left">
       <a href="https://www.linkedin.com/in/zyad-haddad/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="zyad" height="30"></a>
-      <a href="[https://fb.com/1999AZZAR](https://www.facebook.com/hadzyad)" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="zyad" height="30"></a>
+      <a href="https://www.facebook.com/hadzyad" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="zyad" height="30"></a>
       <a href="mailto:trighap52@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="zyad" height="30"></a>
       <a href="https://wa.me/+33619342962" target="blank"><img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="zyad" height="30"></a>
     </p>
