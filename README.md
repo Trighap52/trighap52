@@ -1,15 +1,12 @@
 <h1 align="left">Hi 👋, I'm Zyad</h1>
-<h3 align="left">I'm a fifth-year Computer Science student at INSA Lyon, currently pursuing a double degree at KTH in the Machine Learning Master's Programme (TMAIM).</h3>
+I'm a fifth-year Computer Science student at INSA Lyon, currently pursuing a double degree at KTH in the Machine Learning Master's Programme (TMAIM).
 
 ## 🚀 About Me
 - 🎓 Passionate about **web development, AI, and DevOps**.
-- 🌱 Currently learning:<p align="left">
+- 🌱 Currently learning: 🇪🇸 & 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="30" height="30"/> 
-  </a>  <a href="https://en.wikipedia.org/wiki/Spanish_language" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" alt="Spanish flag" width="30" height="30"/> 
   </a>
-</p>
   
 
 ## 🛠 Tech Stack & Skills
