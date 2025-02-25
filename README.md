@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zyad</h1>
-<h3 align="center">I'm a fifth-year Computer Science student at INSA Lyon, currently pursuing a double degree at KTH in the Machine Learning Master's Programme (TMAIM).</h3>
+<h1 align="left">Hi 👋, I'm Zyad</h1>
+<h3 align="left">I'm a fifth-year Computer Science student at INSA Lyon, currently pursuing a double degree at KTH in the Machine Learning Master's Programme (TMAIM).</h3>
 
 ## 🚀 About Me
 - 🎓 Passionate about **web development, AI, and DevOps**.
