@@ -5,7 +5,7 @@ I'm a fifth-year Computer Science student at INSA Lyon, currently pursuing a dou
 - 🎓 Passionate about **web development, AI, and DevOps**.
 - 🌱 Currently learning: 🇪🇸 & 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="10" height="10"/> 
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="15" height="15"/> 
   </a>
   
 
