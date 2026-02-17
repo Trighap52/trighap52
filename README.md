@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Zyad</h1>
 I'm a fifth-year Computer Science student at INSA Lyon, currently pursuing a double degree at KTH in the Machine Learning Master's Programme (TMAIM).
-Check out my <a href="https://trighap52.github.io/portfolio/">portfolio website</a> (WIP)
+Check out my <a href="https://zyadhaddad.com">portfolio website</a> (WIP)
 
 ## 🚀 About Me
 - 🎓 Passionate about **web development, AI, and DevOps**.
